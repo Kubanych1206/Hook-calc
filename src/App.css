@@ -1,0 +1,13 @@
+.App {
+    width: 600px;
+    
+    border: solid 1px;
+    border-radius: 5px;
+    background-color: rgb(148, 175, 228);
+    margin: 50px auto;
+    height: 200px;
+    padding: 30px;
+  }
+
+  
+  
